@@ -1,5 +1,6 @@
-# Creating this App
+# This was a code along while in class at General Assembly
 
+## Creating this App
 - ` mkdir OurGithubProfileApp `
 - ` cd OurGithubProfileApp `
 - ` npm init `
